@@ -1,0 +1,11 @@
+{
+  "connectionURL": "https://rpc-mumbai.maticvigil.com/",
+  "contractAddress": "0xC23779BD4f62124351735c784a919Ea220c2cB2e",
+  "privateKey": "",
+  "LPPvtKey": "",
+  "id": "2",
+  "uniswapV3PositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+  "uniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+  "tokenDAI": "",
+  "tokenUSDC": ""
+}
